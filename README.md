@@ -16,8 +16,6 @@ Lower Compression: lz4 offers a lower compression ratio compared to other algori
 
 CPU Consumption: Although lz4 is efficient, compression and decompression still consume CPU resources, which can affect the performance of other processes on devices with less powerful CPUs.
 
-Setup and Maintenance: Initial setup and maintenance can be complex, especially for less experienced users. Incorrect modifications may cause system instability.
-
 Compatibility: Not all ROMs or kernels easily support changing the compression algorithm, which may limit the applicability of the solution.
 
 Variable Impact: Positive impact may vary depending on the specific use of the device. In some cases, the benefits may be less noticeable.
