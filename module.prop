@@ -1,0 +1,6 @@
+id=geoXzram
+name=*geoXzram*
+version=1.0
+versionCode=1
+author=geovanne
+description=changes zram compression algorithm to lz4
