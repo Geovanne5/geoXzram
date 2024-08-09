@@ -1,7 +1,7 @@
 # geoXzram
 Here are some positive and negative points of having virtual ram (zram) with the lz4 compression algorithm:
 
-Positives:
+# Positives:
 
 Better Performance: lz4 is fast in compression and decompression, resulting in lower latency and more efficient CPU usage.
 
@@ -11,7 +11,7 @@ Battery Life: Fewer read/write operations on storage and lower CPU consumption h
 
 Improved User Experience: Suitable for Devices with Less RAM: Improves performance on low and mid-range devices by effectively increasing available memory.
 
-Negatives:
+# Negatives:
 
 Lower Compression: lz4 offers a lower compression ratio compared to other algorithms like lzma, resulting in less space saved in memory.
 
