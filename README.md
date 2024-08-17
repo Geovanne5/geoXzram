@@ -20,3 +20,7 @@ CPU Consumption: Although lz4 is efficient, compression and decompression still 
 Compatibility: Not all ROMs or kernels easily support changing the compression algorithm, which may limit the applicability of the solution.
 
 Variable Impact: Positive impact may vary depending on the specific use of the device. In some cases, the benefits may be less noticeable.
+
+# How will I know if the module is working? 
+
+use this command in your terminal emulator: su -c "cat /sys/block/zram0/comp_algorithm"
