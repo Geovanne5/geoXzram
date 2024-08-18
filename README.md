@@ -24,3 +24,5 @@ Variable Impact: Positive impact may vary depending on the specific use of the d
 # How will I know if the module is working? 
 
 use this command in your terminal emulator: su -c "cat /sys/block/zram0/comp_algorithm"
+
+if the compression algorithm is changed by the module it should look like this: [lz4]
